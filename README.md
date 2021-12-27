@@ -10,10 +10,10 @@ Some other things I'm proud of is my blogging/writing, as well as my photography
 
 ### Here's some ways you can reach me.
 
-- (My Blog)[https://taizhang.wordpress.com]
-- (My Instagram)[https://www.instagram.com/tai_22_zhang/]
-- (My Photography Instagram)[https://www.instagram.com/taitakes_/]
-- (My LinkedIn)[https://www.linkedin.com/in/taizhng/]
+- [My Blog](https://taizhang.wordpress.com)
+- [My Instagram](https://www.instagram.com/tai_22_zhang/)
+- [My Photography Instagram](https://www.instagram.com/taitakes_/)
+- [My LinkedIn](https://www.linkedin.com/in/taizhng/)
 
 
 As always, take care :)
