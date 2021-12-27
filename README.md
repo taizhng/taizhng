@@ -1,12 +1,17 @@
 # Hi! I'm Tai.
 
-I'm currently a student at the **University of Toront** studying Computer Science with a Minor in Psychology
+### I'm currently a student at the **University of Toronto** studying Computer Science with a Minor in Psychology.
 
-I'm passionate about teaching, 
+### I'm passionate about computer science and technology, from teaching others of all ages, to creating apps accesible for everyone.
 
-You can find some of my favourite projects I've contributed to pinned below.
+#### Languages I use: Java, Python, Kotlin, HTML, CSS, Jetpack Compose.
 
-Some other things I'm proud of is my blogging/writing, as well as my photography.
+#### Tools I use: VSCode, IntelliJ, PyCharm, Git, Github, RStudio, Microsoft Office, Google Workspace.
+
+### You can find some of my favourite projects I've contributed to pinned below.
+---
+
+### Some other things I'm proud of is my writing, as well as my photography.
 
 ### Here's some ways you can reach me.
 
